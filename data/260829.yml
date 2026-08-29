@@ -1,0 +1,65 @@
+about:
+  description: SciPy library main repository
+  license: BSD-3-Clause
+  homepage: https://scipy.org
+  head: aca77e3
+  archived: false
+  latestVersion: v1.18.1
+  collectedAt: 2026-08-29T07:00:18Z
+timeline:
+  created: 2011-03-09
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-21
+popularity:
+  star: 14965
+  watcher: 343
+  fork: 5892
+  release: 113
+  contributor: 1770
+  pullRequest: 2700
+  issue: 11616
+language:
+  Python: 21947624
+  C: 7064722
+  C++: 3556959
+  Cython: 1245528
+  Meson: 132001
+  Shell: 14213
+  Makefile: 6554
+  MATLAB: 4346
+  R: 3059
+  Batchfile: 1343
+totalLine: 33976349
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 132
+    openPR: 56
+    closedIssue: 25
+    openIssue: 39
+    commit: 222
+  last90d:
+    since: 2026-05-31
+    release: 3
+    mergedPR: 381
+    openPR: 109
+    closedIssue: 88
+    openIssue: 73
+    commit: 621
+  last180d:
+    since: 2026-03-02
+    release: 4
+    mergedPR: 681
+    openPR: 156
+    closedIssue: 157
+    openIssue: 121
+    commit: 1285
+  last360d:
+    since: 2025-09-03
+    release: 10
+    mergedPR: 1358
+    openPR: 199
+    closedIssue: 411
+    openIssue: 211
+    commit: 2552
