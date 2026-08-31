@@ -1,0 +1,65 @@
+about:
+  description: SciPy library main repository
+  license: BSD-3-Clause
+  homepage: https://scipy.org
+  head: a4db518
+  archived: false
+  latestVersion: v1.18.1
+  collectedAt: 2026-08-31T05:27:54Z
+timeline:
+  created: 2011-03-09
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-21
+popularity:
+  star: 14970
+  watcher: 343
+  fork: 5899
+  release: 113
+  contributor: 1771
+  pullRequest: 2706
+  issue: 11617
+language:
+  Python: 21950405
+  C: 7064722
+  C++: 3562217
+  Cython: 1245536
+  Meson: 132035
+  Shell: 14213
+  Makefile: 6554
+  MATLAB: 4346
+  R: 3059
+  Batchfile: 1343
+totalLine: 33984430
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 1
+    mergedPR: 131
+    openPR: 56
+    closedIssue: 25
+    openIssue: 38
+    commit: 175
+  last90d:
+    since: 2026-06-02
+    release: 3
+    mergedPR: 375
+    openPR: 110
+    closedIssue: 87
+    openIssue: 71
+    commit: 575
+  last180d:
+    since: 2026-03-04
+    release: 4
+    mergedPR: 676
+    openPR: 158
+    closedIssue: 154
+    openIssue: 117
+    commit: 1195
+  last360d:
+    since: 2025-09-05
+    release: 10
+    mergedPR: 1358
+    openPR: 200
+    closedIssue: 403
+    openIssue: 210
+    commit: 2527
