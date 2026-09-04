@@ -7,7 +7,7 @@ about:
   head: a12a8a0
   archived: false
   latestVersion: v1.18.1
-  collectedAt: 2026-09-04T19:30:58Z
+  collectedAt: 2026-09-04T21:03:40Z
 timeline:
   created: 2011-03-09
   lastCommit: 2026-09-04
@@ -15,10 +15,10 @@ timeline:
 popularity:
   star: 14985
   watcher: 344
-  fork: 5905
+  fork: 5906
   release: 113
   contributor: 1775
-  pullRequest: 14440
+  pullRequest: 14441
   issue: 11624
 language:
   Python: 21995147
@@ -37,7 +37,7 @@ recent:
     since: 2026-08-05
     release: 1
     mergedPR: 123
-    openPR: 51
+    openPR: 52
     closedIssue: 25
     openIssue: 35
     commit: 217
@@ -45,7 +45,7 @@ recent:
     since: 2026-07-06
     release: 1
     mergedPR: 256
-    openPR: 78
+    openPR: 79
     closedIssue: 53
     openIssue: 55
     commit: 424
@@ -53,7 +53,7 @@ recent:
     since: 2026-06-06
     release: 3
     mergedPR: 386
-    openPR: 106
+    openPR: 107
     closedIssue: 93
     openIssue: 69
     commit: 617
@@ -61,7 +61,7 @@ recent:
     since: 2026-03-08
     release: 4
     mergedPR: 679
-    openPR: 158
+    openPR: 159
     closedIssue: 158
     openIssue: 113
     commit: 1237
@@ -69,7 +69,7 @@ recent:
     since: 2025-09-09
     release: 10
     mergedPR: 1365
-    openPR: 201
+    openPR: 202
     closedIssue: 405
     openIssue: 204
     commit: 2569
@@ -77,18 +77,156 @@ recent:
     since: 2024-09-14
     release: 20
     mergedPR: 2499
-    openPR: 244
+    openPR: 245
     closedIssue: 977
     openIssue: 366
     commit: 4734
 total:
   release: 113
   mergedPR: 11733
-  openPR: 387
+  openPR: 388
   closedIssue: 10183
   openIssue: 1441
   commit: 38247
 ---
+path: /home/runner/.x-repo/github.com/scipy/scipy
+collectedAt: 2026-09-04T21:03:55Z
+loc:
+  Python:
+    code: 478034
+    comments: 38422
+    blanks: 70340
+    files: 996
+  C:
+    code: 109702
+    comments: 46612
+    blanks: 16661
+    files: 282
+  ReStructuredText:
+    code: 50894
+    comments: 0
+    blanks: 11114
+    files: 409
+  Cpp:
+    code: 43178
+    comments: 4092
+    blanks: 5870
+    files: 68
+  CHeader:
+    code: 36759
+    comments: 12452
+    blanks: 5273
+    files: 165
+  Cython:
+    code: 29047
+    comments: 2431
+    blanks: 5156
+    files: 96
+  CppHeader:
+    code: 10781
+    comments: 3462
+    blanks: 2411
+    files: 47
+  Json:
+    code: 4654
+    comments: 0
+    blanks: 16
+    files: 9
+  Meson:
+    code: 4317
+    comments: 212
+    blanks: 434
+    files: 107
+  Autoconf:
+    code: 2471
+    comments: 281
+    blanks: 450
+    files: 9
+  Toml:
+    code: 1174
+    comments: 179
+    blanks: 308
+    files: 7
+  Bitbake:
+    code: 874
+    comments: 8
+    blanks: 94
+    files: 12
+  Svg:
+    code: 513
+    comments: 0
+    blanks: 4
+    files: 7
+  Sh:
+    code: 265
+    comments: 108
+    blanks: 80
+    files: 12
+  Makefile:
+    code: 225
+    comments: 64
+    blanks: 55
+    files: 3
+  ObjectiveC:
+    code: 139
+    comments: 0
+    blanks: 42
+    files: 5
+  Css:
+    code: 76
+    comments: 8
+    blanks: 21
+    files: 1
+  R:
+    code: 67
+    comments: 12
+    blanks: 5
+    files: 1
+  Yaml:
+    code: 52
+    comments: 13
+    blanks: 0
+    files: 1
+  FortranModern:
+    code: 46
+    comments: 5
+    blanks: 17
+    files: 1
+  Ini:
+    code: 41
+    comments: 5
+    blanks: 2
+    files: 1
+  Batch:
+    code: 25
+    comments: 6
+    blanks: 5
+    files: 1
+  JavaScript:
+    code: 13
+    comments: 7
+    blanks: 1
+    files: 1
+  Html:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3910
+    blanks: 1157
+    files: 39
+  Text:
+    code: 0
+    comments: 102906
+    blanks: 141
+    files: 179
+total:
+  code: 773372
+  comments: 215197
+  blanks: 119657
+  files: 2460
 ---
 date: "2026-08-24"
 repo:
