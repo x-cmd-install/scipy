@@ -5,18 +5,18 @@ about:
   head: e74a47b
   archived: false
   latestVersion: "v1.18.1"
-  collectedAt: 2026-09-08T02:22:23Z
+  collectedAt: 2026-09-08T05:15:29Z
 timeline:
   created: 2011-03-09
   lastCommit: 2026-09-07
   lastRelease: 2026-08-21
 popularity:
-  star: 14996
+  star: 14997
   watcher: 346
   fork: 5915
   release: 113
   contributor: 1776
-  pullRequest: 14462
+  pullRequest: 14464
   issue: 11629
 language:
   Python: 21995590
@@ -35,7 +35,7 @@ recent:
     since: 2026-08-09
     release: 1
     mergedPR: 119
-    openPR: 51
+    openPR: 52
     closedIssue: 20
     openIssue: 27
     commit: 188
@@ -43,7 +43,7 @@ recent:
     since: 2026-07-10
     release: 1
     mergedPR: 254
-    openPR: 83
+    openPR: 84
     closedIssue: 52
     openIssue: 57
     commit: 406
@@ -51,7 +51,7 @@ recent:
     since: 2026-06-10
     release: 2
     mergedPR: 379
-    openPR: 111
+    openPR: 112
     closedIssue: 88
     openIssue: 67
     commit: 590
@@ -59,7 +59,7 @@ recent:
     since: 2026-03-12
     release: 4
     mergedPR: 672
-    openPR: 165
+    openPR: 166
     closedIssue: 155
     openIssue: 112
     commit: 1163
@@ -67,7 +67,7 @@ recent:
     since: 2025-09-13
     release: 9
     mergedPR: 1365
-    openPR: 210
+    openPR: 211
     closedIssue: 398
     openIssue: 206
     commit: 2543
@@ -75,20 +75,20 @@ recent:
     since: 2024-09-18
     release: 20
     mergedPR: 2499
-    openPR: 251
+    openPR: 252
     closedIssue: 972
     openIssue: 367
     commit: 4715
 total:
   release: 113
   mergedPR: 11744
-  openPR: 395
+  openPR: 396
   closedIssue: 10185
   openIssue: 1444
   commit: 38264
 ---
 path: /home/runner/.x-repo/github.com/scipy/scipy
-collectedAt: 2026-09-08T02:22:52Z
+collectedAt: 2026-09-08T05:16:10Z
 loc:
   Python:
     code: 478041
