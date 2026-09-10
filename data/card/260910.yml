@@ -2,12 +2,12 @@ about:
   description: "SciPy library main repository"
   license: BSD-3-Clause
   homepage: https://scipy.org
-  head: 90d7ff3
+  head: 4361d71
   archived: false
   latestVersion: "v1.18.1"
   latestRelease: "v1.18.1"
   latestPrerelease: "v1.18.0rc2"
-  collectedAt: 2026-09-10T05:34:38Z
+  collectedAt: 2026-09-10T17:02:50Z
 timeline:
   created: 2011-03-09
   lastCommit: 2026-09-10
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-08-21
   lastPrerelease: 2026-06-09
 popularity:
-  star: 15004
+  star: 15005
   watcher: 346
-  fork: 5917
+  fork: 5918
   release: 113
   contributor: 1776
-  pullRequest: 14478
-  issue: 11632
+  pullRequest: 14481
+  issue: 11636
 language:
-  Python: 22042968
+  Python: 22043573
   C: 7059149
   C++: 3705791
   Cython: 1244111
@@ -33,69 +33,69 @@ language:
   MATLAB: 4346
   R: 3059
   Batchfile: 1343
-totalBytes: 34211477
+totalBytes: 34212082
 recent:
   last30d:
     since: 2026-08-11
     release: 1
-    mergedPR: 121
-    openPR: 48
-    closedIssue: 16
-    openIssue: 27
-    commit: 206
+    mergedPR: 123
+    openPR: 49
+    closedIssue: 17
+    openIssue: 30
+    commit: 208
   last60d:
     since: 2026-07-12
     release: 1
-    mergedPR: 259
-    openPR: 80
-    closedIssue: 50
-    openIssue: 59
-    commit: 424
+    mergedPR: 261
+    openPR: 81
+    closedIssue: 51
+    openIssue: 62
+    commit: 426
   last90d:
     since: 2026-06-12
     release: 2
-    mergedPR: 388
-    openPR: 108
-    closedIssue: 86
-    openIssue: 70
-    commit: 608
+    mergedPR: 390
+    openPR: 109
+    closedIssue: 87
+    openIssue: 73
+    commit: 610
   last180d:
     since: 2026-03-14
     release: 4
-    mergedPR: 672
-    openPR: 161
-    closedIssue: 146
-    openIssue: 113
-    commit: 1182
+    mergedPR: 674
+    openPR: 162
+    closedIssue: 147
+    openIssue: 116
+    commit: 1184
   last360d:
     since: 2025-09-15
     release: 9
-    mergedPR: 1368
-    openPR: 207
-    closedIssue: 400
-    openIssue: 207
-    commit: 2562
+    mergedPR: 1370
+    openPR: 208
+    closedIssue: 401
+    openIssue: 210
+    commit: 2564
   last720d:
     since: 2024-09-20
     release: 20
-    mergedPR: 2504
-    openPR: 248
-    closedIssue: 971
-    openIssue: 365
-    commit: 4724
+    mergedPR: 2506
+    openPR: 249
+    closedIssue: 972
+    openIssue: 368
+    commit: 4726
 total:
   release: 113
-  mergedPR: 11758
-  openPR: 392
-  closedIssue: 10192
-  openIssue: 1440
-  commit: 38281
+  mergedPR: 11760
+  openPR: 393
+  closedIssue: 10193
+  openIssue: 1443
+  commit: 38283
 ---
 path: /home/runner/.x-repo/github.com/scipy/scipy
-collectedAt: 2026-09-10T05:35:24Z
+collectedAt: 2026-09-10T17:03:19Z
 loc:
   Python:
-    code: 478759
+    code: 478771
     comments: 38614
     blanks: 70437
     files: 998
@@ -225,7 +225,7 @@ loc:
     blanks: 141
     files: 177
 total:
-  code: 774104
+  code: 774116
   comments: 215516
   blanks: 119819
   files: 2462
