@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.18.1"
   latestRelease: "v1.18.1"
   latestPrerelease: "v1.18.0rc2"
-  collectedAt: 2026-09-10T17:02:50Z
+  collectedAt: 2026-09-10T23:56:21Z
 timeline:
   created: 2011-03-09
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-21
   lastPrerelease: 2026-06-09
 popularity:
-  star: 15005
+  star: 15006
   watcher: 346
-  fork: 5918
+  fork: 5919
   release: 113
-  contributor: 1776
-  pullRequest: 14481
+  contributor: 1775
+  pullRequest: 14483
   issue: 11636
 language:
   Python: 22043573
@@ -39,7 +39,7 @@ recent:
     since: 2026-08-11
     release: 1
     mergedPR: 123
-    openPR: 49
+    openPR: 50
     closedIssue: 17
     openIssue: 30
     commit: 208
@@ -47,7 +47,7 @@ recent:
     since: 2026-07-12
     release: 1
     mergedPR: 261
-    openPR: 81
+    openPR: 82
     closedIssue: 51
     openIssue: 62
     commit: 426
@@ -55,7 +55,7 @@ recent:
     since: 2026-06-12
     release: 2
     mergedPR: 390
-    openPR: 109
+    openPR: 110
     closedIssue: 87
     openIssue: 73
     commit: 610
@@ -63,7 +63,7 @@ recent:
     since: 2026-03-14
     release: 4
     mergedPR: 674
-    openPR: 162
+    openPR: 163
     closedIssue: 147
     openIssue: 116
     commit: 1184
@@ -71,28 +71,28 @@ recent:
     since: 2025-09-15
     release: 9
     mergedPR: 1370
-    openPR: 208
-    closedIssue: 401
-    openIssue: 210
+    openPR: 209
+    closedIssue: 402
+    openIssue: 209
     commit: 2564
   last720d:
     since: 2024-09-20
     release: 20
     mergedPR: 2506
-    openPR: 249
-    closedIssue: 972
-    openIssue: 368
+    openPR: 250
+    closedIssue: 973
+    openIssue: 367
     commit: 4726
 total:
   release: 113
   mergedPR: 11760
-  openPR: 393
-  closedIssue: 10193
-  openIssue: 1443
+  openPR: 394
+  closedIssue: 10196
+  openIssue: 1440
   commit: 38283
 ---
 path: /home/runner/.x-repo/github.com/scipy/scipy
-collectedAt: 2026-09-10T17:03:19Z
+collectedAt: 2026-09-10T23:56:50Z
 loc:
   Python:
     code: 478771
