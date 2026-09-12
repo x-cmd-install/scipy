@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 18600,
       "digest": "sha256:b25e6640c50d7fc9f3bcb84b34c9007c12f65506227f0a9c72c4e478af069cf1",
-      "download_count": 156,
+      "download_count": 160,
       "created_at": "2026-08-21T23:49:40Z",
       "updated_at": "2026-08-21T23:49:40Z",
       "browser_download_url": "https://github.com/scipy/scipy/releases/download/v1.18.1/Changelog"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6072,
       "digest": "sha256:1271363c098651e95681090ec3c60dce5088f58f17426f7363c18fdafbec3fe3",
-      "download_count": 360,
+      "download_count": 367,
       "created_at": "2026-08-21T23:49:39Z",
       "updated_at": "2026-08-21T23:49:40Z",
       "browser_download_url": "https://github.com/scipy/scipy/releases/download/v1.18.1/README.txt"
