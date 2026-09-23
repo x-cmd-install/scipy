@@ -4,7 +4,7 @@
 
 SciPy library main repository
 
-[![x-cmd/install — scipy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/scipy.svg?lang=zh)](https://x-cmd.com/install/scipy)
+[![x-cmd/install — scipy Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/scipy.svg?lang=zh)](https://x-cmd.com/install/scipy)
 
 ## 安装
 
@@ -26,13 +26,13 @@ x install scipy
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6 / 10**
+总评分: **5.7 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install scipy
 ## 发布
 
 - **最新版本**: `v1.18.1` (2026-08-21)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 15,031 · **Fork**: 5,958 · **开放 issue**: 11,651 · **贡献者**: 1,781
+- **Star**: 15,036 · **Fork**: 5,963 · **开放 issue**: 11,655 · **贡献者**: 1,781
 
 ## 累计统计
 
-- **发布数**: 113 · **已合并 PR**: 11801 · **开放 PR**: 404 · **已关闭 issue**: 10219 · **开放 issue**: 1432 · **提交数**: 38345
+- **发布数**: 113 · **已合并 PR**: 11803 · **开放 PR**: 411 · **已关闭 issue**: 10220 · **开放 issue**: 1435 · **提交数**: 38347
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 92 | 50 | 19 | 27 | 174 |
-| last60d | 2026-07-24 | 1 | 259 | 89 | 48 | 60 | 403 |
-| 90d | 2026-06-24 | 1 | 361 | 111 | 79 | 72 | 567 |
-| last180d | 2026-03-26 | 4 | 660 | 169 | 152 | 114 | 1125 |
-| 360d | 2025-09-27 | 9 | 1374 | 219 | 397 | 210 | 2545 |
-| last720d | 2024-10-02 | 20 | 2515 | 257 | 972 | 364 | 4729 |
+| 30d | 2026-08-24 | 0 | 91 | 55 | 18 | 30 | 176 |
+| last60d | 2026-07-25 | 1 | 259 | 96 | 48 | 63 | 405 |
+| 90d | 2026-06-25 | 1 | 362 | 118 | 79 | 75 | 569 |
+| last180d | 2026-03-27 | 4 | 657 | 175 | 152 | 117 | 1127 |
+| 360d | 2025-09-28 | 9 | 1373 | 226 | 397 | 213 | 2547 |
+| last720d | 2024-10-03 | 20 | 2516 | 264 | 973 | 366 | 4724 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ scipy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:35:06Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:46:25Z._
