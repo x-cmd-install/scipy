@@ -20,7 +20,7 @@ Total: **773,515** lines of code across **1919** files in the top 5 languages.
 |----------|-----:|---------:|-------:|------:|
 | Python | 479,983 | 38,836 | 70,713 | 994 |
 | C | 108,801 | 46,436 | 16,592 | 282 |
-| ReStructuredText | 50,947 | 0 | 11,125 | 411 |
+| ReStructuredText | 50,947 | 0 | 11,126 | 411 |
 | Cpp | 43,831 | 4,132 | 5,876 | 67 |
 | CHeader | 36,745 | 12,452 | 5,269 | 165 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.18.1` (2026-08-21)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-03
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 15,072 · **Forks**: 5,986 · **Open issues**: 11,678 · **Contributors**: 1,791
+- **Stars**: 15,075 · **Forks**: 5,990 · **Open issues**: 11,680 · **Contributors**: 1,791
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 11850 · **Open PRs**: 423 · **Closed issues**: 10239 · **Open issues**: 1439 · **Commits**: 38400
+- **Releases**: 113 · **Merged PRs**: 11851 · **Open PRs**: 423 · **Closed issues**: 10239 · **Open issues**: 1441 · **Commits**: 38401
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 97 | 66 | 17 | 40 | 156 |
-| last60d | 2026-08-04 | 1 | 238 | 100 | 50 | 69 | 392 |
-| 90d | 2026-07-05 | 1 | 368 | 125 | 80 | 83 | 591 |
-| last180d | 2026-04-06 | 4 | 670 | 187 | 157 | 118 | 1148 |
-| 360d | 2025-10-08 | 9 | 1388 | 238 | 402 | 216 | 2554 |
-| last720d | 2024-10-13 | 20 | 2547 | 275 | 972 | 370 | 4739 |
+| 30d | 2026-09-04 | 0 | 94 | 66 | 16 | 40 | 119 |
+| last60d | 2026-08-05 | 1 | 232 | 101 | 49 | 67 | 352 |
+| 90d | 2026-07-06 | 1 | 367 | 125 | 80 | 85 | 561 |
+| last180d | 2026-04-07 | 4 | 671 | 187 | 157 | 120 | 1116 |
+| 360d | 2025-10-09 | 9 | 1387 | 238 | 399 | 218 | 2478 |
+| last720d | 2024-10-14 | 20 | 2542 | 275 | 971 | 372 | 4737 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for scipy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:51:21Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:24:55Z._
