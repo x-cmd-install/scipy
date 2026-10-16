@@ -14,11 +14,11 @@ x install scipy
 
 ## Code insight
 
-Total: **775,806** lines of code across **1921** files in the top 5 languages.
+Total: **775,888** lines of code across **1921** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 481,360 | 38,950 | 71,020 | 996 |
+| Python | 481,442 | 38,953 | 71,036 | 996 |
 | C | 108,823 | 46,441 | 16,593 | 282 |
 | ReStructuredText | 51,181 | 0 | 11,168 | 411 |
 | Cpp | 44,667 | 4,150 | 5,937 | 67 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.18.1` (2026-08-21)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 15,112 · **Forks**: 6,013 · **Open issues**: 11,696 · **Contributors**: 1,791
+- **Stars**: 15,115 · **Forks**: 6,014 · **Open issues**: 11,699 · **Contributors**: 1,791
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 11884 · **Open PRs**: 439 · **Closed issues**: 10260 · **Open issues**: 1436 · **Commits**: 38439
+- **Releases**: 113 · **Merged PRs**: 11886 · **Open PRs**: 438 · **Closed issues**: 10263 · **Open issues**: 1436 · **Commits**: 38441
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 75 | 77 | 11 | 37 | 117 |
-| last60d | 2026-08-16 | 1 | 205 | 104 | 39 | 62 | 334 |
-| 90d | 2026-07-17 | 1 | 366 | 134 | 76 | 85 | 573 |
-| last180d | 2026-04-18 | 4 | 677 | 201 | 160 | 119 | 1120 |
-| 360d | 2025-10-20 | 9 | 1368 | 253 | 392 | 216 | 2472 |
-| last720d | 2024-10-25 | 20 | 2547 | 289 | 965 | 373 | 4729 |
+| 30d | 2026-09-16 | 0 | 74 | 74 | 14 | 36 | 119 |
+| last60d | 2026-08-17 | 1 | 204 | 101 | 41 | 61 | 336 |
+| 90d | 2026-07-18 | 1 | 362 | 132 | 78 | 85 | 575 |
+| last180d | 2026-04-19 | 4 | 678 | 200 | 163 | 118 | 1122 |
+| 360d | 2025-10-21 | 9 | 1365 | 252 | 393 | 216 | 2474 |
+| last720d | 2024-10-26 | 20 | 2549 | 288 | 965 | 373 | 4724 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for scipy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:06:31Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:00:03Z._
