@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,139 · **Forks**: 6,026 · **Open issues**: 11,709 · **Contributors**: 1,797
+- **Stars**: 15,144 · **Forks**: 6,029 · **Open issues**: 11,711 · **Contributors**: 1,797
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 11920 · **Open PRs**: 441 · **Closed issues**: 10276 · **Open issues**: 1433 · **Commits**: 38477
+- **Releases**: 113 · **Merged PRs**: 11920 · **Open PRs**: 442 · **Closed issues**: 10276 · **Open issues**: 1435 · **Commits**: 38477
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 87 | 75 | 15 | 37 | 123 |
-| last60d | 2026-08-23 | 0 | 204 | 101 | 40 | 63 | 332 |
-| 90d | 2026-07-24 | 1 | 374 | 135 | 76 | 89 | 564 |
-| last180d | 2026-04-25 | 4 | 696 | 200 | 163 | 122 | 1125 |
-| 360d | 2025-10-27 | 9 | 1371 | 255 | 390 | 220 | 2456 |
-| last720d | 2024-11-01 | 20 | 2562 | 290 | 966 | 370 | 4744 |
+| 30d | 2026-09-23 | 0 | 82 | 74 | 15 | 39 | 123 |
+| last60d | 2026-08-24 | 0 | 201 | 100 | 38 | 65 | 332 |
+| 90d | 2026-07-25 | 1 | 372 | 136 | 75 | 91 | 564 |
+| last180d | 2026-04-26 | 4 | 696 | 201 | 163 | 124 | 1125 |
+| 360d | 2025-10-28 | 9 | 1366 | 255 | 388 | 222 | 2456 |
+| last720d | 2024-11-02 | 20 | 2561 | 291 | 966 | 371 | 4740 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for scipy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:18:01Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:19:58Z._
